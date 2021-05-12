@@ -5,7 +5,8 @@ three different algorithms to simulate simple random graphs with the emphasize p
 
 2 - Repeated configuration model : generate a random graph as in the erased configuration model, not removing any self loop or multiple edge. Reiterate until the graph is simple. Fails if the chosen distribution has infinite second moment. 
 
-3 - Generalized random graph : Erdos-Renyi graph where edge probabilities are deeply connected to the limiting degree distirbution. See the report for more detail.
+3 - Generalized random graph : Erdos-Renyi graph where edge probabilities are deeply connected to the limiting degree distirbution.
 
 Zeta distributions are particulary suitable for exploring the limitations of each algorithm. It can also be used to investigate on the existence of "infinite" size cluster in the graph using the Molloy-Reed condition. 
 
+See the report for more details.
