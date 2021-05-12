@@ -7,6 +7,6 @@ three different algorithms to simulate simple random graphs with the emphasize p
 
 3 - Generalized random graph : Erdos-Renyi graph where edge probabilities are deeply connected to the limiting degree distirbution.
 
-Zeta distributions are particulary suitable for exploring the limitations of each algorithm. It can also be used to investigate on the existence of "infinite" size cluster in the graph using the Molloy-Reed condition. 
+Zeta distributions are particulary suitable for exploring the limitations of each algorithm. We also investigate on the existence of "infinite" size cluster in the graph using the Molloy-Reed condition. 
 
 See the report for more details.
